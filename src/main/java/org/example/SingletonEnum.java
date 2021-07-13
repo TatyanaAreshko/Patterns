@@ -1,6 +1,6 @@
 package org.example;
 
-public enum SingltonEnum {
+public enum SingletonEnum {
     INSTANCE;
 
     int value;
